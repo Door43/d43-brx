@@ -10,6 +10,10 @@
 
   * [[brx:obs|Open Bible Stories (brx)]]
 
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-brx|d43-brx repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-brx/archive/master.zip|d43-brx.zip]]
+
 **Recent Changes**
 {{changes>ns = brx}}
 
