@@ -8,6 +8,3 @@
 **Recent Changes**
 {{changes>ns = brx:obs}}
 
-**Latest Status**
-{{page>en:uwadmin:brx:obs:status}}
-
